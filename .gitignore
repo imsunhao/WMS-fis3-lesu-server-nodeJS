@@ -1,0 +1,15 @@
+/.idea
+*.swp
+.DS_Store
+._*
+
+*.tmp
+*.temp
+*.log
+
+node_modules
+npm-debug.log
+
+/temp
+/output
+
